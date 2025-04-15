@@ -130,10 +130,3 @@ O programa exibe informações detalhadas sobre:
 6. Distribuição de tipos de contentores usados
 
 Os resultados também são exportados para um arquivo CSV para análise posterior.
-
-## Uso
-
-Para executar o solver:
-
-```bash
-python vsbpp_solver.py
